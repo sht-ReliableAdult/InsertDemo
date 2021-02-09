@@ -1,0 +1,4 @@
+include ':myplugin'
+include ':Plugin'
+include ':app'
+rootProject.name = "InsertDemo"
